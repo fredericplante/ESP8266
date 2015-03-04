@@ -10,6 +10,9 @@ https://github.com/fredericplante/ESP8266/tree/DRV8830
 ##DS1307
 https://github.com/fredericplante/ESP8266/tree/DS1307
 
+##MPU6050
+https://github.com/fredericplante/ESP8266/tree/MPU6050
+
 ##PCF8574
 https://github.com/fredericplante/ESP8266/tree/PCF8574
 

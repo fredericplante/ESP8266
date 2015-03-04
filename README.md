@@ -8,4 +8,5 @@
 ##I2C/TWI
 https://github.com/fredericplante/ESP8266/blob/master/MODE%20I2C.md
 
-
+##GPIO
+https://github.com/fredericplante/ESP8266/blob/master/MODE%20GPIO.md
